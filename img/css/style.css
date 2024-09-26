@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    background: url(../images.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: text;
+    color: transparent;
+    font-style: italic;
+    text-transform: capitalize;
+    text-shadow: 15px 5px 10px rgb(220, 162, 85);
+    }
+.box1{
+    width: 60%;
+    height: 60vh;
+    border: 2px solid;
+    
+    
+}
+.box2{
+    width: 45%;
+    height: 20vh;
+    border: 2px solid;
+    margin: 20%;
+    
+    
+
+}
